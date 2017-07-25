@@ -1,0 +1,37 @@
+#showcase {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(darkblue), to(#2C61EA));
+    background-image: -webkit-linear-gradient(top, darkblue, #2C61EA);
+    background-image: -moz-linear-gradient(top, darkblue, #2C61EA);
+    background-image: linear-gradient(to bottom, darkblue, #2C61EA);
+    height: 400px;
+}
+
+#showcase h2 {
+    position: relative;
+    top: 180px;
+    font-size: 50px;
+    color: white;
+    font-family: Tangerine;
+}
+
+#showcase .thumbnail {
+    padding: 0px !important;
+    border: 1px solid #FEF7FD;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    position: relative;
+    top: 200px;
+    width: 160px;
+    height: 200px;
+    margin-bottom: 100px;
+    box-shadow: 0px 2px 3px 0px lightgray;
+}
+
+#showcase .thumbnail .caption h3 {
+    color: darkgray;
+}
+
+#showcase .thumbnail img{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}

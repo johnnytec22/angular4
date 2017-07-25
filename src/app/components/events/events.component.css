@@ -1,0 +1,46 @@
+#event_body {
+    background: #F5F3F3;
+}
+
+div#event_showcase {
+    margin-top: 50px;
+    min-height: 480px;
+    width: 100%;
+    background: url("/assets/images/showcaseXS.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+div#event_showcase h3 {
+    color: white;
+    padding-top: 300px;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+.thumbnail {
+    border: 1px solid transparent !important;
+    box-shadow: 0 3px 5px 2px lightgray;
+}
+
+.thumbnail h3 {
+    color: #2C61EA;
+}
+
+.thumbnail hr {
+    border: 1px solid #2C61EA;
+    width: 30px;
+    border-radius: 10px;
+}
+
+.thumbnail img {
+    width: 100%;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.thumbnail:hover {
+    box-shadow: 1px 3px 10px 5px lightgray;
+    
+}

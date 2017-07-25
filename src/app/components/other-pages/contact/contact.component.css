@@ -1,0 +1,51 @@
+#contact {
+    background: url('/assets/images/footer.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 100px 0 100px 0 !important;
+}
+
+hr {
+	margin-bottom: 100px;
+    margin-top: 0px !important;
+    width: 100px;
+    border : 1px solid #75A6F0;
+    border-radius: 50% !important;
+    color: #75A6F0 !important;
+}
+
+
+i {
+    margin-right: 7px;
+}
+
+.open-blink {
+	content: ' ';
+	position: relative;
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	margin: 0 20px;
+	border-radius: 50%;
+	background-color: #4caf50;
+	-webkit-animation-name: flash;
+	animation-name: flash;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+}
+
+.open-blink:before {
+	content: ' ';
+	position: absolute;
+	top: -8px;
+	left: -8px;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	opacity: 0.1;
+	border-radius: 50%;
+	background-color: #4caf50;
+}

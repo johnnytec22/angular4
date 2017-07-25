@@ -1,0 +1,39 @@
+.hr {
+    margin-top: 0px !important;
+    width: 100px;
+    border : 1px solid #75A6F0;
+    border-radius: 50% !important;
+    color: #75A6F0 !important;
+}
+
+#aboutus_body {
+    background: white;
+}
+
+div#eventshowcase {
+    margin-top: 45px;
+    height: 500px;
+    background: url("/assets/images/aboutshowcase.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+
+#eventshowcase h2 {
+    color: white;
+    padding-top: 300px;
+    font-size: 40px;
+    
+}
+
+#eventshowcase h2 kbd {
+    font-family: Comfortaa !important;
+    border: 0px !important;
+
+}
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+.hr {
+    margin-top: 0px !important;
+    width: 100px;
+    border : 1px solid #75A6F0;
+    border-radius: 50% !important;
+    color: #75A6F0 !important;
+}
+
+
+#about {
+    margin: 200px 0 180px 0;
+}
+#about hr {
+    margin-bottom: 50px !important;
+}
+
+#about p {
+    color: #B79F78;
+}

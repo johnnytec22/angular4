@@ -1,1 +1,38 @@
 /* You can add global styles to this file, and also import other style files */
+
+.alert-danger, .alert-success {
+    box-shadow: 10px 10px 20px 0px lightgrey !important; 
+}
+
+body {
+    overflow-x: hidden;
+    font-family: Comfortaa;
+}
+
+.panel-body {
+    padding: 0px !important;
+}
+
+
+
+
+.btn-primary, .panel-heading, .badge {
+    background: #2C61EA !important;
+}
+
+.btn-primary {
+    border: 1px solid transparent;
+}
+
+.btn-primary:hover {
+    background: transparent !important;
+    border: 1px solid #2C61EA !important;
+    color: #2C61EA !important;
+}
+
+
+
+ul {
+    padding: 0px !important;
+    margin: 0px !important;
+}

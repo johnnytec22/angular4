@@ -1,0 +1,39 @@
+.hr {
+    margin-top: 0px !important;
+    width: 100px;
+    border : 1px solid #2C61EA;
+    border-radius: 50% !important;
+    color: #2C61EA !important;
+}
+
+#services {
+    margin-top: 100px;
+    padding: 180px 0 200px 0 !important;
+    background: #EFEDED;
+}
+
+#services hr {
+    color: #2C61EA;
+    margin-bottom: 80px !important;
+}
+
+#services .thumbnail {
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.3);
+    border: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom:  0px !important;
+
+}
+
+#services .thumbnail h4 {
+    color: black !important;
+    font-weight: 800px !important;
+}
+
+
+#services .thumbnail img {
+    width: 100%;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}

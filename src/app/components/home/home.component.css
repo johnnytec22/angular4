@@ -1,0 +1,11 @@
+.container-fluid {
+    padding: 10px !important;
+}
+
+#home {
+    background: white;
+}
+
+#main, #sidebar {
+    margin-top: 150px;
+}
