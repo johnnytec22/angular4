@@ -1,3 +1,10 @@
 div p {
     margin-top: 100px;
 }
+
+#footer {
+    height: 200px;
+    width: 100%;
+    background: #2A2A44;
+    color: white;
+}
